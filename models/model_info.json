@@ -1,0 +1,48 @@
+{
+  "training_date": "2025-12-03T07:45:30.958691",
+  "training_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "test_years": [
+    2023,
+    2024
+  ],
+  "feature_count": 21,
+  "model_performance": {
+    "Random Forest": {
+      "MAE": 7364.522771381756,
+      "RMSE": 26663.63283582404,
+      "R2": 0.9757495541954971,
+      "MAE_percent": 11.007835451812085
+    }
+  },
+  "feature_importance": {
+    "fatalities_sum_origin": 7.273767474611997e-05,
+    "fatalities_mean": 0.000641665939363493,
+    "fatalities_count": 0.00035331820228858815,
+    "events_sum_origin": 0.00014215415064118583,
+    "conflict_intensity_origin": 0.0001855332490075684,
+    "fatalities_sum_asylum": 0.0036808209671254093,
+    "fatalities_mean_asylum": 0.009377123218998489,
+    "fatalities_count_asylum": 0.000207341122092441,
+    "events_sum_asylum": 0.00018779786257169202,
+    "conflict_intensity_asylum": 0.008723529924549615,
+    "rainfall_anomaly_mm": 0.0001651811606438952,
+    "drought_index": 0.0002578273283891368,
+    "num_camps_host": 0.0006407018240459547,
+    "total_capacity_host": 0.0005086672327805957,
+    "estimated_occupancy_host": 0.0009940313321773865,
+    "utilization_rate": 0.003441348792098957,
+    "lag1_total": 0.05438027853626996,
+    "lag2_total": 0.001470958931256057,
+    "rolling_mean_3": 0.9100240284007376,
+    "rolling_std_3": 0.00409254689067786,
+    "growth_rate": 0.0004524072595379334
+  }
+}

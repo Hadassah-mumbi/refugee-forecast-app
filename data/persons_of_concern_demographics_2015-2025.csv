@@ -1,0 +1,484 @@
+Year,Country of Asylum,Country of Origin,Country of Asylum ISO,Country of Origin ISO,Population type,Female Total,Male Total,Total
+2016,Burundi,Rwanda,BDI,RWA,Refugees,193,182,375
+2016,Burundi,Somalia,BDI,SOM,Refugees,11,10,21
+2016,Burundi,Uganda,BDI,UGA,Refugees,0,6,6
+2017,Burundi,Rwanda,BDI,RWA,Refugees,222,200,422
+2017,Burundi,Somalia,BDI,SOM,Refugees,11,12,23
+2017,Burundi,Uganda,BDI,UGA,Refugees,0,7,7
+2018,Burundi,Rwanda,BDI,RWA,Refugees,253,226,479
+2018,Burundi,Somalia,BDI,SOM,Refugees,10,13,23
+2018,Burundi,United Rep. of Tanzania,BDI,TZA,Refugees,5,0,5
+2018,Burundi,Uganda,BDI,UGA,Refugees,0,11,11
+2019,Burundi,Rwanda,BDI,RWA,Refugees,320,255,575
+2019,Burundi,Somalia,BDI,SOM,Refugees,10,13,23
+2019,Burundi,United Rep. of Tanzania,BDI,TZA,Refugees,5,0,5
+2019,Burundi,Uganda,BDI,UGA,Refugees,8,5,13
+2020,Burundi,Rwanda,BDI,RWA,Refugees,248,232,480
+2020,Burundi,Somalia,BDI,SOM,Refugees,0,5,5
+2020,Burundi,South Sudan,BDI,SSD,Refugees,8,0,8
+2020,Burundi,Uganda,BDI,UGA,Refugees,0,7,7
+2021,Burundi,Kenya,BDI,KEN,Refugees,0,5,5
+2021,Burundi,Rwanda,BDI,RWA,Refugees,324,290,614
+2021,Burundi,Somalia,BDI,SOM,Refugees,0,5,5
+2021,Burundi,United Rep. of Tanzania,BDI,TZA,Refugees,7,0,7
+2021,Burundi,Uganda,BDI,UGA,Refugees,6,15,21
+2022,Burundi,Rwanda,BDI,RWA,Refugees,353,367,720
+2022,Burundi,Somalia,BDI,SOM,Refugees,0,5,5
+2022,Burundi,Uganda,BDI,UGA,Refugees,6,6,12
+2023,Burundi,Rwanda,BDI,RWA,Refugees,391,410,801
+2023,Burundi,Somalia,BDI,SOM,Refugees,0,5,5
+2023,Burundi,Uganda,BDI,UGA,Refugees,0,14,14
+2024,Burundi,Rwanda,BDI,RWA,Refugees,399,424,823
+2024,Burundi,Somalia,BDI,SOM,Refugees,0,5,5
+2024,Burundi,South Sudan,BDI,SSD,Refugees,7,0,7
+2024,Burundi,Uganda,BDI,UGA,Refugees,0,15,15
+2016,Djibouti,Eritrea,DJI,ERI,Refugees,68,254,322
+2016,Djibouti,Ethiopia,DJI,ETH,Refugees,282,234,516
+2016,Djibouti,Kenya,DJI,KEN,Refugees,5,5,10
+2016,Djibouti,Somalia,DJI,SOM,Refugees,6711,6310,13021
+2017,Djibouti,Eritrea,DJI,ERI,Refugees,85,321,406
+2017,Djibouti,Ethiopia,DJI,ETH,Refugees,284,243,527
+2017,Djibouti,Kenya,DJI,KEN,Refugees,5,5,10
+2017,Djibouti,Somalia,DJI,SOM,Refugees,6783,6325,13108
+2018,Djibouti,Eritrea,DJI,ERI,Refugees,87,295,382
+2018,Djibouti,Ethiopia,DJI,ETH,Refugees,277,233,510
+2018,Djibouti,Kenya,DJI,KEN,Refugees,6,5,11
+2018,Djibouti,Somalia,DJI,SOM,Refugees,6590,6070,12660
+2019,Djibouti,Eritrea,DJI,ERI,Refugees,117,305,422
+2019,Djibouti,Ethiopia,DJI,ETH,Refugees,308,273,581
+2019,Djibouti,Somalia,DJI,SOM,Refugees,6876,6401,13277
+2020,Djibouti,Eritrea,DJI,ERI,Refugees,145,370,515
+2020,Djibouti,Ethiopia,DJI,ETH,Refugees,614,799,1413
+2020,Djibouti,Somalia,DJI,SOM,Refugees,7011,6547,13558
+2021,Djibouti,Eritrea,DJI,ERI,Refugees,195,422,617
+2021,Djibouti,Ethiopia,DJI,ETH,Refugees,890,1268,2158
+2021,Djibouti,Somalia,DJI,SOM,Refugees,7313,6865,14178
+2022,Djibouti,Eritrea,DJI,ERI,Refugees,186,398,584
+2022,Djibouti,Ethiopia,DJI,ETH,Refugees,1901,1809,3710
+2022,Djibouti,Somalia,DJI,SOM,Refugees,6757,6262,13019
+2023,Djibouti,Eritrea,DJI,ERI,Refugees,244,463,707
+2023,Djibouti,Ethiopia,DJI,ETH,Refugees,2775,2660,5435
+2023,Djibouti,Somalia,DJI,SOM,Refugees,6963,6489,13452
+2024,Djibouti,Eritrea,DJI,ERI,Refugees,430,699,1129
+2024,Djibouti,Ethiopia,DJI,ETH,Refugees,2898,2797,5695
+2024,Djibouti,Somalia,DJI,SOM,Refugees,7004,6556,13560
+2016,Eritrea,Ethiopia,ERI,ETH,Refugees,13,10,23
+2016,Eritrea,Somalia,ERI,SOM,Refugees,1055,1189,2244
+2016,Eritrea,South Sudan,ERI,SSD,Refugees,0,8,8
+2017,Eritrea,Ethiopia,ERI,ETH,Refugees,13,17,30
+2017,Eritrea,Somalia,ERI,SOM,Refugees,1074,1212,2286
+2017,Eritrea,South Sudan,ERI,SSD,Refugees,0,9,9
+2018,Eritrea,Ethiopia,ERI,ETH,Refugees,11,15,26
+2018,Eritrea,Somalia,ERI,SOM,Refugees,1010,1138,2148
+2018,Eritrea,South Sudan,ERI,SSD,Refugees,0,8,8
+2019,Eritrea,Ethiopia,ERI,ETH,Refugees,5,10,15
+2019,Eritrea,Somalia,ERI,SOM,Refugees,36,42,78
+2019,Eritrea,South Sudan,ERI,SSD,Refugees,0,7,7
+2020,Eritrea,Ethiopia,ERI,ETH,Refugees,5,10,15
+2020,Eritrea,Somalia,ERI,SOM,Refugees,37,43,80
+2020,Eritrea,South Sudan,ERI,SSD,Refugees,0,7,7
+2021,Eritrea,Ethiopia,ERI,ETH,Refugees,5,10,15
+2021,Eritrea,South Sudan,ERI,SSD,Refugees,0,7,7
+2022,Eritrea,Ethiopia,ERI,ETH,Refugees,5,10,15
+2022,Eritrea,South Sudan,ERI,SSD,Refugees,0,5,5
+2023,Eritrea,Ethiopia,ERI,ETH,Refugees,5,10,15
+2023,Eritrea,South Sudan,ERI,SSD,Refugees,0,5,5
+2024,Eritrea,Ethiopia,ERI,ETH,Refugees,5,10,15
+2024,Eritrea,South Sudan,ERI,SSD,Refugees,0,5,5
+2016,Ethiopia,Burundi,ETH,BDI,Refugees,27,30,57
+2016,Ethiopia,Djibouti,ETH,DJI,Refugees,30,51,81
+2016,Ethiopia,Eritrea,ETH,ERI,Refugees,39862,44606,165548
+2016,Ethiopia,Kenya,ETH,KEN,Refugees,1749,1577,3326
+2016,Ethiopia,Rwanda,ETH,RWA,Refugees,5,6,11
+2016,Ethiopia,Somalia,ETH,SOM,Refugees,128757,113257,242014
+2016,Ethiopia,South Sudan,ETH,SSD,Refugees,188178,150596,338774
+2016,Ethiopia,Uganda,ETH,UGA,Refugees,10,13,23
+2017,Ethiopia,Burundi,ETH,BDI,Refugees,28,30,58
+2017,Ethiopia,Djibouti,ETH,DJI,Refugees,32,44,76
+2017,Ethiopia,Eritrea,ETH,ERI,Refugees,61158,103447,164605
+2017,Ethiopia,Kenya,ETH,KEN,Refugees,1799,1660,3459
+2017,Ethiopia,Rwanda,ETH,RWA,Refugees,5,5,10
+2017,Ethiopia,Somalia,ETH,SOM,Refugees,134640,119139,253779
+2017,Ethiopia,South Sudan,ETH,SSD,Refugees,231677,189696,421373
+2017,Ethiopia,Uganda,ETH,UGA,Refugees,5,13,18
+2018,Ethiopia,Burundi,ETH,BDI,Refugees,32,30,62
+2018,Ethiopia,Djibouti,ETH,DJI,Refugees,32,47,79
+2018,Ethiopia,Eritrea,ETH,ERI,Refugees,64944,109021,173965
+2018,Ethiopia,Kenya,ETH,KEN,Refugees,1808,1663,3471
+2018,Ethiopia,Rwanda,ETH,RWA,Refugees,5,6,11
+2018,Ethiopia,Somalia,ETH,SOM,Refugees,136457,120742,257199
+2018,Ethiopia,South Sudan,ETH,SSD,Refugees,228831,193039,422135
+2018,Ethiopia,Uganda,ETH,UGA,Refugees,11,6,17
+2019,Ethiopia,Burundi,ETH,BDI,Refugees,30,29,59
+2019,Ethiopia,Djibouti,ETH,DJI,Refugees,26,23,49
+2019,Ethiopia,Eritrea,ETH,ERI,Refugees,78875,79721,158596
+2019,Ethiopia,Kenya,ETH,KEN,Refugees,2104,1929,4033
+2019,Ethiopia,Rwanda,ETH,RWA,Refugees,5,6,11
+2019,Ethiopia,Somalia,ETH,SOM,Refugees,100695,91486,192181
+2019,Ethiopia,South Sudan,ETH,SSD,Refugees,180832,153182,334014
+2019,Ethiopia,Uganda,ETH,UGA,Refugees,0,19,19
+2020,Ethiopia,Burundi,ETH,BDI,Refugees,30,29,59
+2020,Ethiopia,Djibouti,ETH,DJI,Refugees,26,23,49
+2020,Ethiopia,Eritrea,ETH,ERI,Refugees,90844,90247,181091
+2020,Ethiopia,Kenya,ETH,KEN,Refugees,2096,1926,4022
+2020,Ethiopia,Rwanda,ETH,RWA,Refugees,5,8,13
+2020,Ethiopia,Somalia,ETH,SOM,Refugees,99026,104777,203803
+2020,Ethiopia,South Sudan,ETH,SSD,Refugees,196947,168083,365030
+2020,Ethiopia,Uganda,ETH,UGA,Refugees,0,7,7
+2021,Ethiopia,Burundi,ETH,BDI,Refugees,34,21,55
+2021,Ethiopia,Djibouti,ETH,DJI,Refugees,21,35,56
+2021,Ethiopia,Eritrea,ETH,ERI,Refugees,83413,74881,158294
+2021,Ethiopia,Kenya,ETH,KEN,Refugees,2103,1930,4033
+2021,Ethiopia,Rwanda,ETH,RWA,Refugees,5,6,11
+2021,Ethiopia,Somalia,ETH,SOM,Refugees,116448,106570,223018
+2021,Ethiopia,South Sudan,ETH,SSD,Refugees,208371,178379,386750
+2021,Ethiopia,Uganda,ETH,UGA,Refugees,5,8,13
+2022,Ethiopia,Burundi,ETH,BDI,Refugees,38,26,64
+2022,Ethiopia,Djibouti,ETH,DJI,Refugees,24,29,53
+2022,Ethiopia,Eritrea,ETH,ERI,Refugees,85576,77236,162812
+2022,Ethiopia,Kenya,ETH,KEN,Refugees,2097,1926,4023
+2022,Ethiopia,Rwanda,ETH,RWA,Refugees,5,6,11
+2022,Ethiopia,Somalia,ETH,SOM,Refugees,131553,120289,251842
+2022,Ethiopia,South Sudan,ETH,SSD,Refugees,219809,189613,409422
+2022,Ethiopia,Uganda,ETH,UGA,Refugees,5,6,11
+2023,Ethiopia,Burundi,ETH,BDI,Refugees,41,34,75
+2023,Ethiopia,Djibouti,ETH,DJI,Refugees,25,30,55
+2023,Ethiopia,Eritrea,ETH,ERI,Refugees,88891,80183,169074
+2023,Ethiopia,Kenya,ETH,KEN,Refugees,2099,1925,4024
+2023,Ethiopia,Rwanda,ETH,RWA,Refugees,5,6,11
+2023,Ethiopia,Somalia,ETH,SOM,Refugees,160529,146971,307500
+2023,Ethiopia,South Sudan,ETH,SSD,Refugees,224374,193857,418231
+2023,Ethiopia,Uganda,ETH,UGA,Refugees,12,0,12
+2024,Ethiopia,Burundi,ETH,BDI,Refugees,42,35,77
+2024,Ethiopia,Djibouti,ETH,DJI,Refugees,19,29,48
+2024,Ethiopia,Eritrea,ETH,ERI,Refugees,89900,81205,171105
+2024,Ethiopia,Kenya,ETH,KEN,Refugees,2868,2772,5640
+2024,Ethiopia,Rwanda,ETH,RWA,Refugees,5,6,11
+2024,Ethiopia,Somalia,ETH,SOM,Refugees,165693,152280,317973
+2024,Ethiopia,South Sudan,ETH,SSD,Refugees,225653,194476,420129
+2024,Ethiopia,Uganda,ETH,UGA,Refugees,14,0,14
+2016,Kenya,Burundi,KEN,BDI,Refugees,830,887,1717
+2016,Kenya,Eritrea,KEN,ERI,Refugees,517,564,1081
+2016,Kenya,Ethiopia,KEN,ETH,Refugees,9064,10000,19064
+2016,Kenya,Rwanda,KEN,RWA,Refugees,353,367,720
+2016,Kenya,Somalia,KEN,SOM,Refugees,165436,159012,324448
+2016,Kenya,South Sudan,KEN,SSD,Refugees,41322,45819,87141
+2016,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,0,9,9
+2016,Kenya,Uganda,KEN,UGA,Refugees,260,371,631
+2017,Kenya,Burundi,KEN,BDI,Refugees,917,985,1902
+2017,Kenya,Eritrea,KEN,ERI,Refugees,343,359,702
+2017,Kenya,Ethiopia,KEN,ETH,Refugees,8476,9397,17873
+2017,Kenya,Rwanda,KEN,RWA,Refugees,290,286,576
+2017,Kenya,Somalia,KEN,SOM,Refugees,143638,138054,281692
+2017,Kenya,South Sudan,KEN,SSD,Refugees,52867,58643,111510
+2017,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,0,9,9
+2017,Kenya,Uganda,KEN,UGA,Refugees,258,368,626
+2018,Kenya,Burundi,KEN,BDI,Refugees,2261,2611,4872
+2018,Kenya,Eritrea,KEN,ERI,Refugees,346,356,707
+2018,Kenya,Ethiopia,KEN,ETH,Refugees,8706,9409,18115
+2018,Kenya,Rwanda,KEN,RWA,Refugees,311,337,648
+2018,Kenya,Somalia,KEN,SOM,Refugees,130083,122415,252498
+2018,Kenya,South Sudan,KEN,SSD,Refugees,54365,60837,115202
+2018,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,0,11,11
+2018,Kenya,Uganda,KEN,UGA,Refugees,332,511,843
+2019,Kenya,Burundi,KEN,BDI,Refugees,2651,3124,5775
+2019,Kenya,Eritrea,KEN,ERI,Refugees,433,436,869
+2019,Kenya,Ethiopia,KEN,ETH,Refugees,9408,10144,19552
+2019,Kenya,Rwanda,KEN,RWA,Refugees,342,390,732
+2019,Kenya,Somalia,KEN,SOM,Refugees,132354,125412,257766
+2019,Kenya,South Sudan,KEN,SSD,Refugees,57445,63965,121410
+2019,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,0,11,11
+2019,Kenya,Uganda,KEN,UGA,Refugees,347,543,890
+2020,Kenya,Burundi,KEN,BDI,Refugees,3105,3654,6759
+2020,Kenya,Eritrea,KEN,ERI,Refugees,440,448,888
+2020,Kenya,Ethiopia,KEN,ETH,Refugees,9818,10624,20442
+2020,Kenya,Rwanda,KEN,RWA,Refugees,352,392,744
+2020,Kenya,Somalia,KEN,SOM,Refugees,135990,129362,265352
+2020,Kenya,South Sudan,KEN,SSD,Refugees,58357,65555,123912
+2020,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,0,16,16
+2020,Kenya,Uganda,KEN,UGA,Refugees,335,502,837
+2021,Kenya,Burundi,KEN,BDI,Refugees,3344,3859,7203
+2021,Kenya,Eritrea,KEN,ERI,Refugees,441,461,902
+2021,Kenya,Ethiopia,KEN,ETH,Refugees,9935,10712,20647
+2021,Kenya,Rwanda,KEN,RWA,Refugees,364,402,766
+2021,Kenya,Somalia,KEN,SOM,Refugees,143385,137094,280479
+2021,Kenya,South Sudan,KEN,SSD,Refugees,63492,71763,135255
+2021,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,0,11,11
+2021,Kenya,Uganda,KEN,UGA,Refugees,328,466,794
+2022,Kenya,Burundi,KEN,BDI,Refugees,3787,4372,8159
+2022,Kenya,Eritrea,KEN,ERI,Refugees,464,478,942
+2022,Kenya,Ethiopia,KEN,ETH,Refugees,10418,11202,21620
+2022,Kenya,Rwanda,KEN,RWA,Refugees,383,428,811
+2022,Kenya,Somalia,KEN,SOM,Refugees,143308,136617,279925
+2022,Kenya,South Sudan,KEN,SSD,Refugees,71213,82076,153289
+2022,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,5,12,17
+2022,Kenya,Uganda,KEN,UGA,Refugees,332,469,801
+2023,Kenya,Burundi,KEN,BDI,Refugees,4081,4600,8681
+2023,Kenya,Eritrea,KEN,ERI,Refugees,508,524,1032
+2023,Kenya,Ethiopia,KEN,ETH,Refugees,10958,11680,22638
+2023,Kenya,Rwanda,KEN,RWA,Refugees,399,446,845
+2023,Kenya,Somalia,KEN,SOM,Refugees,149658,143176,292834
+2023,Kenya,South Sudan,KEN,SSD,Refugees,79788,91445,171233
+2023,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,0,18,18
+2023,Kenya,Uganda,KEN,UGA,Refugees,348,467,815
+2024,Kenya,Burundi,KEN,BDI,Refugees,4539,5066,9605
+2024,Kenya,Eritrea,KEN,ERI,Refugees,588,650,1238
+2024,Kenya,Ethiopia,KEN,ETH,Refugees,12943,14044,26987
+2024,Kenya,Rwanda,KEN,RWA,Refugees,418,458,876
+2024,Kenya,Somalia,KEN,SOM,Refugees,164782,159714,324496
+2024,Kenya,South Sudan,KEN,SSD,Refugees,89570,103255,192825
+2024,Kenya,United Rep. of Tanzania,KEN,TZA,Refugees,0,17,17
+2024,Kenya,Uganda,KEN,UGA,Refugees,362,473,835
+2016,Rwanda,Burundi,RWA,BDI,Refugees,40958,41928,82886
+2016,Rwanda,Eritrea,RWA,ERI,Refugees,0,5,5
+2016,Rwanda,Ethiopia,RWA,ETH,Refugees,0,5,5
+2016,Rwanda,Somalia,RWA,SOM,Refugees,0,5,5
+2016,Rwanda,Uganda,RWA,UGA,Refugees,0,5,5
+2017,Rwanda,Burundi,RWA,BDI,Refugees,43622,44587,88209
+2017,Rwanda,Eritrea,RWA,ERI,Refugees,0,5,5
+2017,Rwanda,Ethiopia,RWA,ETH,Refugees,0,5,5
+2017,Rwanda,Somalia,RWA,SOM,Refugees,0,5,5
+2017,Rwanda,Uganda,RWA,UGA,Refugees,0,5,5
+2018,Rwanda,Burundi,RWA,BDI,Refugees,32057,36223,68280
+2018,Rwanda,Eritrea,RWA,ERI,Refugees,0,5,5
+2018,Rwanda,Ethiopia,RWA,ETH,Refugees,0,5,5
+2018,Rwanda,Somalia,RWA,SOM,Refugees,0,5,5
+2018,Rwanda,South Sudan,RWA,SSD,Refugees,7,0,7
+2019,Rwanda,Burundi,RWA,BDI,Refugees,33213,38275,71488
+2019,Rwanda,Eritrea,RWA,ERI,Refugees,19,85,104
+2019,Rwanda,Ethiopia,RWA,ETH,Refugees,0,5,5
+2019,Rwanda,Somalia,RWA,SOM,Refugees,8,10,18
+2019,Rwanda,South Sudan,RWA,SSD,Refugees,5,0,5
+2020,Rwanda,Burundi,RWA,BDI,Refugees,30115,34113,65037
+2020,Rwanda,Eritrea,RWA,ERI,Refugees,16,64,80
+2020,Rwanda,Ethiopia,RWA,ETH,Refugees,8,0,8
+2020,Rwanda,Somalia,RWA,SOM,Refugees,10,22,32
+2020,Rwanda,South Sudan,RWA,SSD,Refugees,0,6,6
+2021,Rwanda,Burundi,RWA,BDI,Refugees,21320,25723,47884
+2021,Rwanda,Eritrea,RWA,ERI,Refugees,34,97,131
+2021,Rwanda,Ethiopia,RWA,ETH,Refugees,5,0,5
+2021,Rwanda,Somalia,RWA,SOM,Refugees,8,5,13
+2021,Rwanda,South Sudan,RWA,SSD,Refugees,0,7,7
+2022,Rwanda,Burundi,RWA,BDI,Refugees,21535,25991,48367
+2022,Rwanda,Eritrea,RWA,ERI,Refugees,83,121,204
+2022,Rwanda,Ethiopia,RWA,ETH,Refugees,16,10,26
+2022,Rwanda,Somalia,RWA,SOM,Refugees,10,17,27
+2022,Rwanda,South Sudan,RWA,SSD,Refugees,6,12,18
+2023,Rwanda,Burundi,RWA,BDI,Refugees,21960,26386,48346
+2023,Rwanda,Eritrea,RWA,ERI,Refugees,100,123,223
+2023,Rwanda,Ethiopia,RWA,ETH,Refugees,35,33,68
+2023,Rwanda,Somalia,RWA,SOM,Refugees,27,24,51
+2023,Rwanda,South Sudan,RWA,SSD,Refugees,15,8,23
+2024,Rwanda,Burundi,RWA,BDI,Refugees,22561,27036,49597
+2024,Rwanda,Eritrea,RWA,ERI,Refugees,93,112,205
+2024,Rwanda,Ethiopia,RWA,ETH,Refugees,41,32,73
+2024,Rwanda,Somalia,RWA,SOM,Refugees,18,13,31
+2024,Rwanda,South Sudan,RWA,SSD,Refugees,15,23,38
+2016,Somalia,Eritrea,SOM,ERI,Refugees,15,21,36
+2016,Somalia,Ethiopia,SOM,ETH,Refugees,1553,1507,3060
+2016,Somalia,Uganda,SOM,UGA,Refugees,5,0,5
+2017,Somalia,Eritrea,SOM,ERI,Refugees,23,26,49
+2017,Somalia,Ethiopia,SOM,ETH,Refugees,1822,1786,3608
+2018,Somalia,Eritrea,SOM,ERI,Refugees,22,28,50
+2018,Somalia,Ethiopia,SOM,ETH,Refugees,2032,1949,3981
+2019,Somalia,Eritrea,SOM,ERI,Refugees,24,33,57
+2019,Somalia,Ethiopia,SOM,ETH,Refugees,2200,2087,4287
+2020,Somalia,Eritrea,SOM,ERI,Refugees,22,29,51
+2020,Somalia,Ethiopia,SOM,ETH,Refugees,2142,2035,4177
+2021,Somalia,Eritrea,SOM,ERI,Refugees,22,30,52
+2021,Somalia,Ethiopia,SOM,ETH,Refugees,2282,2118,4400
+2022,Somalia,Eritrea,SOM,ERI,Refugees,26,31,57
+2022,Somalia,Ethiopia,SOM,ETH,Refugees,2552,2392,4944
+2023,Somalia,Eritrea,SOM,ERI,Refugees,25,33,58
+2023,Somalia,Ethiopia,SOM,ETH,Refugees,2687,2516,5203
+2024,Somalia,Eritrea,SOM,ERI,Refugees,25,31,56
+2024,Somalia,Ethiopia,SOM,ETH,Refugees,2706,2517,5223
+2016,Sudan,Burundi,SDN,BDI,Refugees,5,8,13
+2016,Sudan,Eritrea,SDN,ERI,Refugees,51851,51325,103176
+2016,Sudan,Ethiopia,SDN,ETH,Refugees,1712,1951,3663
+2016,Sudan,Somalia,SDN,SOM,Refugees,62,122,184
+2016,Sudan,South Sudan,SDN,SSD,Refugees,52252,41618,297168
+2016,Sudan,Uganda,SDN,UGA,Refugees,0,5,5
+2017,Sudan,Burundi,SDN,BDI,Refugees,6,9,15
+2017,Sudan,Eritrea,SDN,ERI,Refugees,54732,53511,108243
+2017,Sudan,Ethiopia,SDN,ETH,Refugees,2004,2269,4273
+2017,Sudan,Somalia,SDN,SOM,Refugees,77,131,208
+2017,Sudan,South Sudan,SDN,SSD,Refugees,128372,112247,772715
+2017,Sudan,Uganda,SDN,UGA,Refugees,0,5,5
+2018,Sudan,Burundi,SDN,BDI,Refugees,0,0,16
+2018,Sudan,Eritrea,SDN,ERI,Refugees,57670,56875,114545
+2018,Sudan,Ethiopia,SDN,ETH,Refugees,2832,3213,6045
+2018,Sudan,Somalia,SDN,SOM,Refugees,172,260,432
+2018,Sudan,South Sudan,SDN,SSD,Refugees,447849,404231,852080
+2018,Sudan,Uganda,SDN,UGA,Refugees,0,0,5
+2019,Sudan,Eritrea,SDN,ERI,Refugees,56950,55954,112904
+2019,Sudan,Ethiopia,SDN,ETH,Refugees,3085,3619,6704
+2019,Sudan,Somalia,SDN,SOM,Refugees,161,277,438
+2019,Sudan,South Sudan,SDN,SSD,Refugees,418757,392160,810917
+2020,Sudan,Burundi,SDN,BDI,Refugees,9,8,17
+2020,Sudan,Eritrea,SDN,ERI,Refugees,58044,56823,114867
+2020,Sudan,Ethiopia,SDN,ETH,Refugees,23805,38693,62498
+2020,Sudan,Somalia,SDN,SOM,Refugees,108,204,312
+2020,Sudan,South Sudan,SDN,SSD,Refugees,387206,349479,736685
+2020,Sudan,Uganda,SDN,UGA,Refugees,0,5,5
+2021,Sudan,Burundi,SDN,BDI,Refugees,5,6,11
+2021,Sudan,Eritrea,SDN,ERI,Refugees,58494,57184,115678
+2021,Sudan,Ethiopia,SDN,ETH,Refugees,23059,33747,56806
+2021,Sudan,Somalia,SDN,SOM,Refugees,124,230,354
+2021,Sudan,South Sudan,SDN,SSD,Refugees,415627,388007,803634
+2021,Sudan,Uganda,SDN,UGA,Refugees,0,5,5
+2022,Sudan,Burundi,SDN,BDI,Refugees,6,6,12
+2022,Sudan,Eritrea,SDN,ERI,Refugees,60355,59055,119410
+2022,Sudan,Ethiopia,SDN,ETH,Refugees,23540,31915,55455
+2022,Sudan,Somalia,SDN,SOM,Refugees,169,251,420
+2022,Sudan,South Sudan,SDN,SSD,Refugees,411706,385125,796831
+2022,Sudan,Uganda,SDN,UGA,Refugees,0,5,5
+2023,Sudan,Burundi,SDN,BDI,Refugees,5,9,14
+2023,Sudan,Eritrea,SDN,ERI,Refugees,61811,62369,124180
+2023,Sudan,Ethiopia,SDN,ETH,Refugees,23065,30975,54040
+2023,Sudan,Somalia,SDN,SOM,Refugees,163,259,422
+2023,Sudan,South Sudan,SDN,SSD,Refugees,366399,329847,696246
+2023,Sudan,Uganda,SDN,UGA,Refugees,0,5,5
+2024,Sudan,Burundi,SDN,BDI,Refugees,8,0,8
+2024,Sudan,Eritrea,SDN,ERI,Refugees,57952,50397,108349
+2024,Sudan,Ethiopia,SDN,ETH,Refugees,21664,27883,49547
+2024,Sudan,Somalia,SDN,SOM,Refugees,128,130,258
+2024,Sudan,South Sudan,SDN,SSD,Refugees,316423,296629,613052
+2016,South Sudan,Eritrea,SSD,ERI,Refugees,0,18,18
+2016,South Sudan,Ethiopia,SSD,ETH,Refugees,2484,2207,4691
+2016,South Sudan,Somalia,SSD,SOM,Refugees,0,5,5
+2017,South Sudan,Burundi,SSD,BDI,Refugees,0,5,5
+2017,South Sudan,Eritrea,SSD,ERI,Refugees,12,20,32
+2017,South Sudan,Ethiopia,SSD,ETH,Refugees,2446,2109,4555
+2018,South Sudan,Burundi,SSD,BDI,Refugees,0,5,5
+2018,South Sudan,Eritrea,SSD,ERI,Refugees,30,53,83
+2018,South Sudan,Ethiopia,SSD,ETH,Refugees,2256,1947,4203
+2019,South Sudan,Burundi,SSD,BDI,Refugees,5,50,55
+2019,South Sudan,Eritrea,SSD,ERI,Refugees,60,142,202
+2019,South Sudan,Ethiopia,SSD,ETH,Refugees,2205,1860,4065
+2020,South Sudan,Burundi,SSD,BDI,Refugees,10,93,103
+2020,South Sudan,Eritrea,SSD,ERI,Refugees,75,184,259
+2020,South Sudan,Ethiopia,SSD,ETH,Refugees,2278,1916,4194
+2021,South Sudan,Burundi,SSD,BDI,Refugees,21,161,182
+2021,South Sudan,Eritrea,SSD,ERI,Refugees,108,257,365
+2021,South Sudan,Ethiopia,SSD,ETH,Refugees,2391,2141,4532
+2021,South Sudan,Somalia,SSD,SOM,Refugees,0,5,5
+2022,South Sudan,Burundi,SSD,BDI,Refugees,44,257,301
+2022,South Sudan,Eritrea,SSD,ERI,Refugees,271,508,779
+2022,South Sudan,Ethiopia,SSD,ETH,Refugees,2261,1890,4151
+2023,South Sudan,Burundi,SSD,BDI,Refugees,0,0,508
+2023,South Sudan,Eritrea,SSD,ERI,Refugees,782,1030,1812
+2023,South Sudan,Ethiopia,SSD,ETH,Refugees,2343,2268,4611
+2023,South Sudan,Somalia,SSD,SOM,Refugees,0,24,24
+2024,South Sudan,Burundi,SSD,BDI,Refugees,152,912,1064
+2024,South Sudan,Eritrea,SSD,ERI,Refugees,1088,2249,3337
+2024,South Sudan,Ethiopia,SSD,ETH,Refugees,2938,2886,5824
+2024,South Sudan,Somalia,SSD,SOM,Refugees,11,17,28
+2024,South Sudan,Uganda,SSD,UGA,Refugees,5,0,5
+2016,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,112637,118213,230850
+2016,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,73,77,150
+2017,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,127012,124215,251227
+2017,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,73,77,150
+2018,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,107799,113555,221354
+2018,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,73,77,150
+2019,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,95760,96471,192231
+2019,United Rep. of Tanzania,Kenya,TZA,KEN,Refugees,5,0,5
+2019,United Rep. of Tanzania,Rwanda,TZA,RWA,Refugees,35,30,65
+2019,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,73,86,159
+2019,United Rep. of Tanzania,South Sudan,TZA,SSD,Refugees,5,5,10
+2019,United Rep. of Tanzania,Uganda,TZA,UGA,Refugees,5,9,14
+2020,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,91496,92019,183515
+2020,United Rep. of Tanzania,Rwanda,TZA,RWA,Refugees,36,31,67
+2020,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,78,82,160
+2020,United Rep. of Tanzania,South Sudan,TZA,SSD,Refugees,5,5,10
+2020,United Rep. of Tanzania,United Rep. of Tanzania,TZA,TZA,Refugees,5,0,5
+2020,United Rep. of Tanzania,Uganda,TZA,UGA,Refugees,5,9,14
+2021,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,76769,78403,155172
+2021,United Rep. of Tanzania,Rwanda,TZA,RWA,Refugees,36,33,69
+2021,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,79,83,162
+2021,United Rep. of Tanzania,South Sudan,TZA,SSD,Refugees,0,6,6
+2021,United Rep. of Tanzania,United Rep. of Tanzania,TZA,TZA,Refugees,6,0,6
+2021,United Rep. of Tanzania,Uganda,TZA,UGA,Refugees,6,9,15
+2022,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,76752,78555,155307
+2022,United Rep. of Tanzania,Rwanda,TZA,RWA,Refugees,39,33,72
+2022,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,79,83,162
+2022,United Rep. of Tanzania,South Sudan,TZA,SSD,Refugees,0,6,6
+2022,United Rep. of Tanzania,Uganda,TZA,UGA,Refugees,5,11,16
+2023,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,70484,72544,143028
+2023,United Rep. of Tanzania,Rwanda,TZA,RWA,Refugees,37,40,77
+2023,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,78,82,160
+2023,United Rep. of Tanzania,Uganda,TZA,UGA,Refugees,6,11,17
+2024,United Rep. of Tanzania,Burundi,TZA,BDI,Refugees,67169,69325,136494
+2024,United Rep. of Tanzania,Rwanda,TZA,RWA,Refugees,37,41,78
+2024,United Rep. of Tanzania,Somalia,TZA,SOM,Refugees,74,77,151
+2024,United Rep. of Tanzania,Uganda,TZA,UGA,Refugees,6,11,17
+2016,Uganda,Burundi,UGA,BDI,Refugees,19279,21733,41012
+2016,Uganda,Eritrea,UGA,ERI,Refugees,2086,2425,4511
+2016,Uganda,Ethiopia,UGA,ETH,Refugees,848,1154,2002
+2016,Uganda,Kenya,UGA,KEN,Refugees,83,111,194
+2016,Uganda,Rwanda,UGA,RWA,Refugees,7707,7524,15231
+2016,Uganda,Somalia,UGA,SOM,Refugees,14780,15909,30689
+2016,Uganda,South Sudan,UGA,SSD,Refugees,363654,275353,639007
+2017,Uganda,Burundi,UGA,BDI,Refugees,18417,19828,38245
+2017,Uganda,Eritrea,UGA,ERI,Refugees,2120,2446,4566
+2017,Uganda,Ethiopia,UGA,ETH,Refugees,829,1115,1944
+2017,Uganda,Kenya,UGA,KEN,Refugees,81,112,193
+2017,Uganda,Rwanda,UGA,RWA,Refugees,7270,7012,14282
+2017,Uganda,Somalia,UGA,SOM,Refugees,12417,12594,25011
+2017,Uganda,South Sudan,UGA,SSD,Refugees,548983,488429,1037412
+2018,Uganda,Burundi,UGA,BDI,Refugees,15915,16603,32518
+2018,Uganda,Eritrea,UGA,ERI,Refugees,1582,1791,3373
+2018,Uganda,Ethiopia,UGA,ETH,Refugees,753,955,1708
+2018,Uganda,Kenya,UGA,KEN,Refugees,83,111,194
+2018,Uganda,Rwanda,UGA,RWA,Refugees,7167,6857,14024
+2018,Uganda,Somalia,UGA,SOM,Refugees,9373,9391,18764
+2018,Uganda,South Sudan,UGA,SSD,Refugees,416624,372224,788848
+2018,Uganda,United Rep. of Tanzania,UGA,TZA,Refugees,0,8,8
+2019,Uganda,Burundi,UGA,BDI,Refugees,21322,22566,43888
+2019,Uganda,Eritrea,UGA,ERI,Refugees,3112,3323,6435
+2019,Uganda,Ethiopia,UGA,ETH,Refugees,883,1124,2007
+2019,Uganda,Kenya,UGA,KEN,Refugees,85,115,200
+2019,Uganda,Rwanda,UGA,RWA,Refugees,7849,7513,15362
+2019,Uganda,Somalia,UGA,SOM,Refugees,15093,17980,33073
+2019,Uganda,South Sudan,UGA,SSD,Refugees,452239,409213,861452
+2019,Uganda,United Rep. of Tanzania,UGA,TZA,Refugees,0,9,9
+2020,Uganda,Burundi,UGA,BDI,Refugees,23574,24892,48466
+2020,Uganda,Eritrea,UGA,ERI,Refugees,4193,4457,8650
+2020,Uganda,Ethiopia,UGA,ETH,Refugees,967,1255,2222
+2020,Uganda,Kenya,UGA,KEN,Refugees,88,116,204
+2020,Uganda,Rwanda,UGA,RWA,Refugees,8168,7810,15978
+2020,Uganda,Somalia,UGA,SOM,Refugees,16904,20632,37536
+2020,Uganda,South Sudan,UGA,SSD,Refugees,465035,422417,887452
+2020,Uganda,United Rep. of Tanzania,UGA,TZA,Refugees,0,10,10
+2021,Uganda,Burundi,UGA,BDI,Refugees,22346,23763,46109
+2021,Uganda,Eritrea,UGA,ERI,Refugees,5435,5766,11201
+2021,Uganda,Ethiopia,UGA,ETH,Refugees,1139,1552,2691
+2021,Uganda,Kenya,UGA,KEN,Refugees,104,135,239
+2021,Uganda,Rwanda,UGA,RWA,Refugees,8978,8559,17537
+2021,Uganda,Somalia,UGA,SOM,Refugees,18687,23515,42202
+2021,Uganda,South Sudan,UGA,SSD,Refugees,501443,457484,958927
+2021,Uganda,United Rep. of Tanzania,UGA,TZA,Refugees,10,5,15
+2022,Uganda,Burundi,UGA,BDI,Refugees,19284,19820,39104
+2022,Uganda,Eritrea,UGA,ERI,Refugees,7099,7337,14436
+2022,Uganda,Ethiopia,UGA,ETH,Refugees,1504,2206,3710
+2022,Uganda,Kenya,UGA,KEN,Refugees,115,116,231
+2022,Uganda,Rwanda,UGA,RWA,Refugees,10845,10124,20969
+2022,Uganda,Somalia,UGA,SOM,Refugees,21884,29308,51192
+2022,Uganda,South Sudan,UGA,SSD,Refugees,449431,404811,854242
+2022,Uganda,United Rep. of Tanzania,UGA,TZA,Refugees,17,5,22
+2023,Uganda,Burundi,UGA,BDI,Refugees,19839,20297,40136
+2023,Uganda,Eritrea,UGA,ERI,Refugees,12693,12235,24928
+2023,Uganda,Ethiopia,UGA,ETH,Refugees,2716,4777,7493
+2023,Uganda,Kenya,UGA,KEN,Refugees,104,117,221
+2023,Uganda,Rwanda,UGA,RWA,Refugees,11109,10351,21460
+2023,Uganda,Somalia,UGA,SOM,Refugees,18018,23544,41562
+2023,Uganda,South Sudan,UGA,SSD,Refugees,483174,440433,923607
+2023,Uganda,United Rep. of Tanzania,UGA,TZA,Refugees,18,0,18
+2024,Uganda,Burundi,UGA,BDI,Refugees,20643,21050,41693
+2024,Uganda,Eritrea,UGA,ERI,Refugees,18200,18559,36759
+2024,Uganda,Ethiopia,UGA,ETH,Refugees,3927,6791,10718
+2024,Uganda,Kenya,UGA,KEN,Refugees,107,124,231
+2024,Uganda,Rwanda,UGA,RWA,Refugees,11571,10822,22393
+2024,Uganda,Somalia,UGA,SOM,Refugees,20630,28492,49122
+2024,Uganda,South Sudan,UGA,SSD,Refugees,508879,466141,975020
+2024,Uganda,United Rep. of Tanzania,UGA,TZA,Refugees,11,8,19
