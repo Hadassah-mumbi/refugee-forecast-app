@@ -194,7 +194,6 @@ main { overflow: hidden; }
 .visual-note { position: absolute; z-index: 4; right: 5px; bottom: 0; color: #638084; font: 600 8px 'DM Sans', sans-serif; letter-spacing: .13em; }
 .visual-note span { color: var(--landing-coral); padding: 0 4px; }
 
-
 @media (max-width: 1080px) {
   .masthead { grid-template-columns: minmax(210px, 1fr) auto minmax(130px, .7fr); gap: 15px; }
   .site-nav { gap: 20px; }
