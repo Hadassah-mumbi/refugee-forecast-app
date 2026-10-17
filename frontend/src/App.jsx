@@ -120,7 +120,6 @@ export default function App() {
         </a>
         <nav className="site-nav" aria-label="Main navigation">
           <a className="nav-home" href="#home">Home</a>
-          <a href="#about">About</a>
           <a href="#atlas">Our Data</a>
           <a href="#contact">Contact</a>
         </nav>
@@ -158,7 +157,6 @@ export default function App() {
             <p>Explore historical refugee movements, uncover emerging displacement patterns, and forecast future flows to help humanitarian teams plan resources where they are needed most.</p>
             <div className="hero-actions">
               <a className="explore-button" href="#atlas">Explore the map <span aria-hidden="true">→</span></a>
-              <a className="secondary-action" href="#about">How it works <span aria-hidden="true">↗</span></a>
             </div>
             <div className="hero-proof" aria-label="Platform capabilities">
               <span>Historical data</span><i aria-hidden="true"/><span>Geographic insight</span><i aria-hidden="true"/><span>Future scenarios</span>
@@ -191,30 +189,6 @@ export default function App() {
             </figure>
             <span className="visual-note">EAST AFRICA <span>·</span> ILLUSTRATIVE REGION</span>
           </div>
-        </div>
-      </section>
-
-      <section className="how-section" id="about" aria-labelledby="how-title">
-        <div className="how-intro">
-          <span className="how-eyebrow">HOW IT WORKS</span>
-          <h2 id="how-title">From data to<br />decisions</h2>
-          <p>Historical and environmental data help explore displacement patterns and inform planning.</p>
-        </div>
-        <div className="how-step">
-          <span className="step-icon" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M16 4 27 24H5L16 4Z"/><path d="M16 11v6m0 3v.2"/></svg></span>
-          <b>01</b><h3>Provide context</h3><p>Choose a country and explore historical displacement data.</p>
-        </div>
-        <div className="how-step">
-          <span className="step-icon" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M11 7h10v19H11zM8 11h3m-3 5h3m-3 5h3m10-10h3m-3 5h3m-3 5h3"/><circle cx="16" cy="16" r="2.3"/></svg></span>
-          <b>02</b><h3>Review scenarios</h3><p>See model outputs separately from recorded observations.</p>
-        </div>
-        <div className="how-step">
-          <span className="step-icon" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M6 8h20v17l-6-3-7 3-7-3V8Z"/><path d="M16 19s-5-3-5-6a2.5 2.5 0 0 1 5-1 2.5 2.5 0 0 1 5 1c0 3-5 6-5 6Z"/></svg></span>
-          <b>03</b><h3>Explore the map</h3><p>Compare geographic patterns across countries and years.</p>
-        </div>
-        <div className="how-step">
-          <span className="step-icon" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M5 13h8l3 3h7l4 3-9 5-8-2H5zM13 16l2-5h5l2 5M9 10V7m7 3V6m7 5V8"/><circle cx="9" cy="8" r="1.3"/><circle cx="16" cy="7" r="1.3"/><circle cx="23" cy="9" r="1.3"/></svg></span>
-          <b>04</b><h3>Plan resources</h3><p>Consider needs and capacity as part of humanitarian planning.</p>
         </div>
       </section>
 

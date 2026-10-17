@@ -156,9 +156,6 @@ main { overflow: hidden; }
 .explore-button span { padding: 0; color: white; font-size: 18px; line-height: 1; }
 .hero-proof { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 31px; color: #60777c; font-size: 10px; font-weight: 500; }
 .hero-proof i { width: 1px; height: 14px; background: #dce4e2; }
-.secondary-action { color: #147c89; text-decoration: none; font-size: 13px; font-weight: 600; }
-.secondary-action span { margin-left: 7px; color: var(--landing-teal); }
-.secondary-action:hover { color: var(--landing-coral); }
 .hero-visual { position: relative; align-self: stretch; min-width: 0; min-height: 420px; }
 .east-africa-map { position: absolute; z-index: 3; top: 0; left: -19%; width: 82%; height: 100%; overflow: visible; opacity: .72; pointer-events: none; }
 .map-land path { fill: none; stroke: #91c8c6; stroke-width: 1.1; stroke-linecap: round; stroke-linejoin: round; }
@@ -196,25 +193,7 @@ main { overflow: hidden; }
 .hero-photo figcaption a { color: white; text-decoration: underline; text-decoration-color: #ffffff8a; font-weight: 400; letter-spacing: .01em; }
 .visual-note { position: absolute; z-index: 4; right: 5px; bottom: 0; color: #638084; font: 600 8px 'DM Sans', sans-serif; letter-spacing: .13em; }
 .visual-note span { color: var(--landing-coral); padding: 0 4px; }
-.how-section {
-  display: grid;
-  grid-template-columns: minmax(230px, 1.25fr) repeat(4, minmax(120px, 1fr));
-  gap: clamp(24px, 3.5vw, 52px);
-  align-items: center;
-  min-height: 235px;
-  padding: 32px clamp(24px, 4.2vw, 68px) 35px;
-  color: var(--landing-ink);
-  background: #f4f9f9;
-}
-.how-intro { align-self: center; padding-right: clamp(20px, 3vw, 46px); border-right: 1px solid #dce8e7; }
-.how-eyebrow { color: #168b9a; font-size: 9px; font-weight: 700; letter-spacing: .13em; }
-.how-intro h2 { margin: 10px 0 8px; font: 600 26px/1.15 'Playfair Display', Georgia, serif; letter-spacing: -.03em; }
-.how-intro p, .how-step p { margin: 0; color: #647b81; font-size: 11px; line-height: 1.6; }
-.how-step { min-width: 0; }
-.step-icon { display: grid; width: 42px; height: 42px; margin-bottom: 10px; place-items: center; border-radius: 50%; background: #dff2f2; }
-.step-icon svg { width: 25px; height: 25px; fill: none; stroke: #168b9a; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
-.how-step b { color: #168b9a; font-size: 10px; }
-.how-step h3 { margin: 4px 0 5px; color: #203b44; font-size: 12px; font-weight: 600; }
+
 
 @media (max-width: 1080px) {
   .masthead { grid-template-columns: minmax(210px, 1fr) auto minmax(130px, .7fr); gap: 15px; }
@@ -237,9 +216,6 @@ main { overflow: hidden; }
   .site-nav a, .nav-explore { font-size: 11px; }
   .site-nav .nav-home::after { bottom: 0; }
   .nav-explore { padding: 9px 12px; }
-  .how-section { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; padding-top: 26px; }
-  .how-intro { grid-column: 1 / -1; padding: 0 0 15px; border-right: 0; border-bottom: 1px solid #dce8e7; }
-  .how-intro h2 br { display: none; }
   .intro { height: auto; min-height: 0; padding: 50px 22px 40px; }
   .hero-inner { display: flex; flex-direction: column; align-items: stretch; gap: 25px; height: auto; }
   .intro-copy { max-width: 580px; padding: 0; }
@@ -294,7 +270,6 @@ main { overflow: hidden; }
   .hero-photo { inset: 0 -22px 0 -4%; }
   .east-africa-map { left: -5%; width: 72%; }
   .visual-note { right: 0; bottom: -1px; font-size: 7px; }
-  .how-section { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 18px; padding: 25px 22px 30px; }
 }
 @media (max-width: 430px) {
   .masthead { padding-right: 15px; padding-left: 15px; }
